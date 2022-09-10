@@ -11,7 +11,7 @@ function  verificaMesmoNome (nomeDoFulano, nomeDoBeltrano){
 }
 
 
-
+// Função que verifica se é maior de idade
 imprimir(verificaMaiorIdade(18));
 function verificaMaiorIdade (idade){
     if(idade >= 18){
