@@ -1,0 +1,7 @@
+Níveis, técnicas e tipos de testes
+
+1) Alguns exemplos de testes de caixa preta são tabela de decisão, particionamento de equivalência 
+e análise de valor limite.
+
+2) Os testes de caixa preta são aqueles em que não se têm acesso ao código fonte, baseiam-se no comportamento da aplicação,
+já os testes de caixa branca se te um conhecimento sobre a estrutura interna do produto se têm acesso ao código fonte.  

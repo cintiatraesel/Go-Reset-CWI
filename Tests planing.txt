@@ -1,0 +1,2 @@
+1) Os dois exemplos de planejamento de testes são: Mapa Mental e Wilfredo Pareto 80/20.
+2) Exemplos de artefatos possíveis a ser gerados são: Gráficos, Mapa Mental, Caso de Testes, CheckList, Diálogo.

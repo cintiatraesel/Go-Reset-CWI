@@ -1,0 +1,20 @@
+Fluxo Principal: Alice Souza e um número qualquer.
+Fluxo Alternativo: alicesouza@gmail.com ou 51257895432
+
+passo a passo:
+tentar acessar com uma senha inválida.
+
+Ação                            	Resultado
+Abrir o aplicativo			Ser direcionado para a tela de login
+Preencher com email			Deve aparecer para inserir a senha
+preencher a senha incorreta		Ocorre erro (senha inválida)
+Preencher novamente com a senha válida  Direcionado para a aplicação
+
+Sintaxe GHERKIN
+Cenário: Acessar o sistema com a senha inválida
+Dado que acessei o login
+E ocorreu um erro de senha inválida
+E com a senha Válida acessei
+E fui direcionada para a aplicação
+Quando preencho meus dados e acesso corretamente
+Então sou direcionada para a aplicação.
